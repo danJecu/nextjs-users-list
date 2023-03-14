@@ -15,7 +15,7 @@ export default function Home() {
       </Head>
 
       <div className={styles.title}>
-        <h1>Dan</h1>
+        <h1>Users</h1>
         <p className={styles.text}>
           Lorem ipsum dolor sit amet consectetur adipisicing elit.
           Necessitatibus, aliquid.
